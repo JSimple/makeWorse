@@ -3,7 +3,7 @@
 makeWorseCode is a JavaScript program that I made for my own education and amusement.  
 It’s a program that edits its own code to be less efficient while preserving functionality. 
 It’s a work-in-progress, but is already operational enough to be entertaining (to me, at least).
-The current version does not exit the program code directly. Rather it creates a new program file with the less efficient code.
+The current version does not edit the program code directly, rather it creates a new program file with the less efficient code.
 The code can currently run for 5 - 7 generations without running into any errors.
 The identified errors that occur around the 5th - 7th generation are due to rounding problems with floating point numbers. I'm going to work on this.
 
