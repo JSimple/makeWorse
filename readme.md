@@ -7,7 +7,7 @@ The current version does not edit the program code directly, rather it creates a
 The code can currently run for 5 - 7 generations without running into any errors.
 The identified errors that occur around the 5th - 7th generation are due to rounding problems with floating point numbers. I'm going to work on this.
 
-## download
+## Download
 
 Just download the makeWorse directory from GitHub (you can send me pull request). 
 makeWorseCode should then run in any enviornment that supports node JS.
